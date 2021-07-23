@@ -1,3 +1,5 @@
+/*https://www.hackerearth.com/practice/basic-programming/implementation/basics-of-implementation/practice-problems/golf/modulo-strength-4/ */
+
 #include <iostream>
 using namespace std;
 int main() {
